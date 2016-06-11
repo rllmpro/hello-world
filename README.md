@@ -1,2 +1,2 @@
 # hello-world
-This is only a test
+Hello, new to programming and learning more each day.
